@@ -81,7 +81,7 @@
 </li>
 
 <li>
-<a href="https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4"><img src="https://img.shields.io/badge/My Notion Resume-A9BCF5?style=for-the-badge&logo=Undertale&logoColor=white&link=https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4/"/></a>
+<a href="https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4"><img src="https://img.shields.io/badge/My Notion Resume-A9BCF5?style=for-the-badge&logo=Notion&logoColor=white&link=https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4/"/></a>
 </li>
 	
 </ul>
