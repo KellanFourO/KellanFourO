@@ -11,7 +11,6 @@
 <br>
 
 - I am a student studying game development.
-- Here is the link to my resume created using <br>
 
 
 <br><br>
