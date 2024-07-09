@@ -78,7 +78,7 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
 
 <li>
 <a href="mailto:jsy55602711@gmail.com" target="_blank">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+![Gmail](https://img.shields.io/badge/Gmail-%23D0A9F5.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 </a>
 </li>
 	
