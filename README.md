@@ -43,7 +43,7 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
 <br>
 
 - **Graphics**:
-    ![DirectX](https://img.shields.io/badge/DirectX%20-%236DA252.svg?style=for-the-badge&logo=DirectX&logoColor=white)
+    ![Direct X](https://img.shields.io/badge/Direct%20X%20-%236DA252.svg?style=for-the-badge&logo=DirectX&logoColor=white)
     
 <br>
 
