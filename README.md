@@ -17,7 +17,7 @@
 <br>
 
 - I am a student studying game development.
-- Here is the link to my resume created using 
+- Here is the link to my resume created using <br>
 Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4
 
 <br><br>
