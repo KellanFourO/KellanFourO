@@ -32,7 +32,7 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
 - **Languages**:
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+    ![PHP](https://img.shields.io/badge/php-%20-%23777BB4.svg?style=for-the-badge&logo=php%logoColor=white)
   
 <br>   
     
