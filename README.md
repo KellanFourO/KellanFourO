@@ -17,7 +17,8 @@
 <br>
 
 - I am a student studying game development.
-- Here is the link to my resume created using Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4
+- Here is the link to my resume created using 
+Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4
 
 <br><br>
 
@@ -32,7 +33,7 @@
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![DirectX](https://img.shields.io/badge/DirectX%20-%2300599C.svg?style=for-the-badge&logo=DirectX&logoColor=white)    
+    ![DirectX](https://img.shields.io/badge/DirectX%20-%#6DA252.svg?style=for-the-badge&logo=DirectX&logoColor=white)    
   
 
 <br>   
