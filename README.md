@@ -72,9 +72,9 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
 
 <div align="center">
 
-<a href="https://github.com/KellanFourO/">
+
 [![KellanFourO's GitHub stats](https://github-readme-stats.vercel.app/api?username=KellanFourO)](https://github.com/KellanFourO/github-readme-stats)
-</a>
+
 </div>
 
 <br>
