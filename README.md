@@ -38,7 +38,7 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
 <br>   
     
 - **Game Engine**:
-    [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+    [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
   
 <br>
 
