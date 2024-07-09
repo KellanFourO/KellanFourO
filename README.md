@@ -75,7 +75,7 @@
 
 
 <li>
-<a href="mailto:jsy55602711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsy55602711@gmail.com"/></a>
+<a href="mailto:jsy55602711@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsy55602711@gmail.com"/></a>
 </li>
 
 <br>
