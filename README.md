@@ -51,7 +51,7 @@ Notion : https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white)
+    ![DirectX](https://img.shields.io/badge/DirectX%20-%235F259F.svg?style=for-the-badge&logo=DirectX&logoColor=white)
   
     
     
