@@ -75,10 +75,10 @@
 
 
 <li>
-<a href="mailto:jsy55602711@gmail.com" target="_blank">
-![Gmail](https://img.shields.io/badge/Gmail-%23D0A9F5.svg?style=for-the-badge&logo=Gmail&logoColor=white)
-</a>
+<a href="mailto:jsy55602711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsy55602711@gmail.com"/></a>
 </li>
+
+<br>
 
 <li>
 <a href="https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4"><img src="https://img.shields.io/badge/My Notion Resume-A9BCF5?style=for-the-badge&logo=Notion&logoColor=white&link=https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4/"/></a>
