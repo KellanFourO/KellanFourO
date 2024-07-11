@@ -95,7 +95,7 @@
 <br>
 
 <li>
-<a href="https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1"><img src="https://img.shields.io/badge/My Figma Tech Introduction-000000?style=for-the-badge&logo=figma&logoColor=white&link=https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1/"/></a>
+<a href="https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1"><img src="https://img.shields.io/badge/My Figma Tech Introduction-F24E1E?style=for-the-badge&logo=figma&logoColor=white&link=https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1/"/></a>
 </li>
 
 </ul>
