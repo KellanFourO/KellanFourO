@@ -91,7 +91,11 @@
 <li>
 <a href="https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4"><img src="https://img.shields.io/badge/My Notion Resume-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://shrouded-protocol-660.notion.site/c2f87423b1c14e3dad2d9d40dd54a66b?pvs=4/"/></a>
 </li>
-	
+
+<li>
+<a href="https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1"><img src="https://img.shields.io/badge/My Figma Tech Introduction?style=for-the-badge&logo=figma&logoColor=white&link=https://www.figma.com/proto/6HV0JiHggyBvVzSBYcnGJu/%EC%A0%95%EC%8A%B9%EC%9A%A9_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C?t=Hyt74RmcHXa59roc-1"/></a>
+</li>
+
 </ul>
 </div>
 
